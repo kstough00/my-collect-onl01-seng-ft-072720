@@ -1,3 +1,5 @@
+list = ["Tim Jones", "Tom Smith", "Jim Campagno"]
+
 def my_collect(languages)
   i = 0 
   new_collection = []
