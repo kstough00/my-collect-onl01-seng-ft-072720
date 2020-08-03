@@ -9,4 +9,4 @@ def my_collect(languages)
 new_colletion
 end
 
-my_collect(list) {|i| ""
+my_collect(list) {|i| i.split
