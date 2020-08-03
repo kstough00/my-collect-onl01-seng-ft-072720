@@ -9,4 +9,3 @@ new_colletion
 end
 
 my_collect(list) {|i| i.split(" ").first}
-my_collect(list) {|i| i.split(" ").first}
