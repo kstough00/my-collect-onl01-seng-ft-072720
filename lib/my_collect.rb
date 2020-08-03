@@ -7,7 +7,7 @@ def my_collect(languages)
   new_collection << yield(languages[i])
   i += 1 
   end
-new_colletion
+new_collection
 end
 
 my_collect(list) {|i| i.split(" ").first}
