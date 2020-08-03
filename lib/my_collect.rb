@@ -3,6 +3,7 @@ def my_collect(languages)
   new_collection = []
   while i < languages.length
   yield(languages[i])
+  i+
   
   end
 new_colletion
